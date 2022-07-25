@@ -4,11 +4,10 @@ $a = 8;
 $b = 4;
 
 $c = $a + $b;
-echo "a=".$a."\n";
-echo "b=".$b."\n";
-echo "a + b =".$c."\n";
-echo "\n";
-echo "\n Achtung!";
+echo "a=".$a."<br/>";
+echo "b=".$b."<br/>";
+echo "a + b =".$c."<br/>";
+echo "Achtung!";
 
 ?>
 
